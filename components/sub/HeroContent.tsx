@@ -19,7 +19,7 @@ const HeroContent = () => {
         <span className='text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500'> the best </span>project experience</span>
     </motion.div>
     <motion.p variants={slideInFromLeft(0.8)} className='text-lg text-gray-400 my-5 max-w-[600px]'>
-        I am a full stack developer
+        I'm Puneet, I am a full stack developer
     </motion.p>
     <motion.a variants={slideInFromLeft(1)} className='py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]'>
         Learn More!
